@@ -85,7 +85,7 @@ Place the egg into an egg cup, then place the egg cup onto a plate.
 
 Use your finger and thumb to sprinkle some cress seeds onto the cotton wool; the plate will catch any excess. That’s it; the egg head is now ready to grow. Place the egg cup in a place where it will receive sunlight during the day.
 
-## Step 2: Setting Up your Pi
+## Step 2: Setting up your Pi
 
 First check that you have all the parts you need to get your Raspberry Pi set up and working.
 
@@ -96,7 +96,7 @@ First check that you have all the parts you need to get your Raspberry Pi set up
 - HDMI cable
 - A monitor or TV
 
-### Activity Checklist
+### Activity checklist
 
 1.	Place the SD card into the slot of your Raspberry Pi. It will only fit one way so be careful not to break the card. 
 2.	Next connect the HDMI cable from the monitor (or TV) to the HDMI port on the Pi and turn on your monitor. 
